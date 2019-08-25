@@ -33,7 +33,7 @@
     <description><![CDATA[Data Skeptic alternates between short mini episodes with the host explaining concepts from data science to his non-data scientist wife, and longer interviews featuring practitioners and experts on interesting topics related to data, all through the eye of scientific skepticism.]]></description>
     <itunes:subtitle><![CDATA[Applying critical thinking to Data Science]]></itunes:subtitle>
       <item>
-      <title><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></title>
+      <title>click me</title>
       <pubDate>Fri, 15 Jan 2016 15:00:00 +0000</pubDate>
       <guid isPermaLink="false"><![CDATA[18102dbc685d36dea2556055eea4ed76]]></guid>
       <link><![CDATA[javascript:alert(document.domain)]]></link>
